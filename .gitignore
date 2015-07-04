@@ -1,0 +1,11 @@
+*.pyc
+settings_local*
+static/media/**
+.idea/*
+celerybeat.pid
+*.rar
+*.pdf
+*.sql
+logs/**
+cmd.bat
+/static/CACHE
